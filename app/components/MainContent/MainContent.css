@@ -1,0 +1,19 @@
+.mainContent {
+    border: red 2px solid;
+    display: flex;
+    padding: 0 70px 24px 70px;
+}
+
+.leftContent {
+    border: green 2px solid;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.rightContent {
+    border: green 2px solid;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
